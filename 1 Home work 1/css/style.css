@@ -1,0 +1,58 @@
+#culoare_text{
+	color: white;
+}
+#nabardrop{
+	background-color: red;
+}
+#culoare_hello{
+	background-color: darkblue;
+	min-height: 160px;
+}
+#culoare_video{
+	min-height: 540px;
+}
+.buffer { 
+	margin-bottom: 15px;
+	margin-top:20px; 
+	background-color: lightgray;
+	margin-left: 1px;
+	min-height: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 11px;
+}
+.buton_roz{
+	background-color: #F90065;
+	height: 30px;
+	width: 450px;
+	border-radius: 0px;
+}
+#badge_blue{
+	background-color: blue;
+}
+.buton_send{
+	background-color: #F90065;
+	height: 30px;
+	width: 420px;
+	border-radius: 0px;
+}
+.vote{
+	border: 1px solid white;
+	border-color: lightgray;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 20px;
+	font-size: 14px;
+}
+.buton_vote{
+	
+	height: 30px;
+	width: 175px;
+	border-radius: 0px;
+	padding-left: 10px;
+}
+.roz {background-color: #F90065;}
+
+.verde {background-color: #10D48E;}
